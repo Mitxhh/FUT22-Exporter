@@ -13,3 +13,5 @@ You will need to install the Tampermonkey extension for Chrome to use this tool.
 
 # Suggestions/Bugs
 If you come across a bug with the tool or have any suggestions/requests about the functionallity, open an [issue](https://github.com/Mitxhh/FUT22-Exporter/issues) and I will review!
+
+As new card types are released into FUT, their rarity won't be recognised. I will try to get them added as soon as possible, but please raise an [issue](https://github.com/Mitxhh/FUT22-Exporter/issues) if you spot one is missing before me!
